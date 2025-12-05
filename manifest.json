@@ -1,0 +1,24 @@
+{
+  "name": "UniStar: University Course Recommender",
+  "short_name": "UniStar",
+  "description": "Personalized university course recommender for high school students looking for undergraduate programs. Find matches for universities, eligibility, fees, and schedules based on your interests and location.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8074/8074800.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8074/8074800.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
